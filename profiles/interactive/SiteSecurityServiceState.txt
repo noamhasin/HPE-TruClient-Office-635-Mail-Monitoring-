@@ -1,0 +1,6 @@
+portal.office.com:HSTS	0	16995	1499948427682,1,0
+secure.aadcdn.microsoftonline-p.com:HSTS	0	16995	1499948427599,1,0
+login.microsoftonline.com:HSTS	0	16995	1499948431643,1,1
+www.outlook.com:HSTS	0	16995	1499948427853,1,1
+outlook.office.com:HSTS	0	16995	1499948425153,1,1
+prod.msocdn.com:HSTS	0	16995	1499948258279,1,0

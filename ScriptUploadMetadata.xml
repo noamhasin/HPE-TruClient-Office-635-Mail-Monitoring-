@@ -23,12 +23,23 @@
     <FileEntry Name="UserTasks.xml" Filter="2" />
     <FileEntry Name="TC.xsl" Filter="2" />
     <FileEntry Name="profiles\" Filter="2" />
+    <FileEntry Name="combined_365OfficeMail.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name=".gitignore" Filter="1" />
+    <FileEntry Name="365OfficeMail.c.pickle" Filter="1" />
+    <FileEntry Name="365OfficeMail.ci" Filter="1" />
     <FileEntry Name="default.cfg.bak" Filter="1" />
+    <FileEntry Name="interactive_replay_Firefox.txt" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="results\" Filter="1" />
+    <FileEntry Name="resultSnap\" Filter="1" />
     <FileEntry Name="snapshots\" Filter="1" />
   </GeneralFiles>
 </VugenScriptMetadata>
